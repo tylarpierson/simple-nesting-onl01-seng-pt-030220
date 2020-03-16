@@ -16,7 +16,7 @@ def hopper
         }
      }
 
-
+  hopper[:grace_hopper][:languages]
 end
 
 def alan_kay_is_known_for
